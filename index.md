@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## 윤혜린 이력서
 
-You can use the [editor on GitHub](https://github.com/Luiie/Luiie.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+안녕하세요!
+휴먼기계바이오공학부 윤혜린입니다!
 
 ### Markdown
 
