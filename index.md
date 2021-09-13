@@ -14,7 +14,7 @@
 ```markdown
 #하니 
 
-Female(Neutered)
+Female(Neutralized)
 2017 / 4 / 2 (현재 4살)
 하이랜드 스트레이트
 
