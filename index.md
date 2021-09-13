@@ -69,3 +69,5 @@ copy path를 누르셨다면 Ctrl + V 로 붙여넣을 수 있게 됩니다.
 쨘
 
 맨 하단의 Commit change(녹색버튼)을 눌러 저장합니다.
+
+
